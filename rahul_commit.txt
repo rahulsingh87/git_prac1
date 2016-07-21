@@ -1,1 +1,4 @@
 First line entered
+Second line entered for rahul commit tracked file
+It is to check the Fetch and Merge command
+
