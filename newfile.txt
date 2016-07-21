@@ -1,0 +1,3 @@
+New line has been added to newfile.txt
+for testing the git fetch and get merge
+

@@ -1,4 +1,11 @@
 First line entered
+
+Second liSecond line entered for rahul commit tracked file
+
+
 Fourth line entered for rahul_commit.txt
 Fifth line for rahul_commit.txt
+
+It is to check the Fetch and Merge command
+
 
